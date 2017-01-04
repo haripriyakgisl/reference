@@ -1,0 +1,8 @@
+http://localhost/mahara/view/index.php (index)
+http://localhost/mahara/view/edit.php?new=1&id=10(create-create page)
+http://localhost/mahara/view/blocks.php?id=10&new=1(edit content in create)
+http://localhost/mahara/group/mygroups.php(groups )
+http://localhost/mahara/admin/(ADMINISTRATOR)
+http://localhost/mahara/admin/site/options.php(CONFIGURE SITE)
+http://localhost/mahara/admin/users/search.php(USERS)
+http://localhost/mahara/admin/users/institutions.php(INSTITUTUONS)
